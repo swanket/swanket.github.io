@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is Sean Wanket. I have a B.Sc. and M.Sc. in Geophysics, both from the University of British Columbia. My Master's Thesis, titled "Potential Ice Sheet Modulation of Volcanism in West Antarctica", used previously developed data analysis methods to analyze a time series of eruption frequency from Mount Berlin, West Antarcitca to decipher if increases in the rate of deglaciation preceeds increases in eruption frequency, a process known as glacial unloading.
