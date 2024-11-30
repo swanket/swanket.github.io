@@ -1,10 +1,9 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 subtitle: 
 ---
 
-# Curriculum Vitae
 Below is my CV. If you have any questions please feel free to reach out to me at my email address.
 
 ## Education
