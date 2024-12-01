@@ -55,14 +55,14 @@ social-network-links:
   email: "swanket97@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: swanket
+  # github: swanket
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
- linkedin: Sean Wanket
+ # linkedin: Sean Wanket
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -76,7 +76,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
- ORCID: your ORCID ID
+ # ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
