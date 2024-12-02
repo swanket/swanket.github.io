@@ -26,7 +26,7 @@ geophysical tasks appointed to the project team. Worked with the geophysical sur
 subcontractor to better understand the groundwater availability in the state of California.
 
 ## Publications
-Gilchrist, J.T., Jellinek, A.M., Hooft, E.E.E., Wanket, S.M. Submarine terraced deposits linked to periodic collapse of caldera-forming eruption columns. Nat. Geosci.16, 446–453 (2023). https://doi.org/10.1038/s41561-023-01160-z
+Gilchrist, J.T., Jellinek, A.M., Hooft, E.E.E., Wanket, S.M. Submarine terraced deposits linked to periodic collapse of caldera-forming eruption columns. Nat. Geosci.16, 446–453 (2023). [https://doi.org/10.1038/s41561-023-01160-z](https://doi.org/10.1038/s41561-023-01160-z)
 
 ## Professional Interests
 
