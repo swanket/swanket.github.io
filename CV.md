@@ -29,11 +29,35 @@ subcontractor to better understand the groundwater availability in the state of 
 Gilchrist, J.T., Jellinek, A.M., Hooft, E.E.E., Wanket, S.M. Submarine terraced deposits linked to periodic collapse of caldera-forming eruption columns. Nat. Geosci.16, 446–453 (2023). [https://doi.org/10.1038/s41561-023-01160-z](https://doi.org/10.1038/s41561-023-01160-z)
 
 ## Professional Interests
+I hope to use the skills I learned in my M.Sc. and B.Sc. to enhance sustainability and progress across any industry that I work in. I am interested in research focused on the physical and thermal interactions of ice sheets and glaciers on volcanic eruptions, physical oceanography and fluid dynamics, ground and surface water hydrology, and really anything Earth Science with a focus on sustainability and climate change. I am experienced and interested in using computer science to study physical processes that might be difficult to capture in field studies. I do not have fieldwork experience, however I would love to engage in fieldwork in the future because without solid data acquisition computer studies are impossible.
 
 ## Skills and Activities
+**Programming Languages**: Python, MATLAB, Julia, SQL, R 
 
-## Relevant Course Work
+**Software**: COMSOL, ArcGIS, QGIS
+
+**Environemnts**: Latex, Microsoft: Excel, Word, PowerPoint, Access
+
+**Technical skills**: Numerical Modelling, Statistical Analysis, Data and Time Series Processing, Data Visualisation, Data Manipulation
+
+## Selected Course Work
+
+EOSC 511 Numerical Techniques for Ocean, Atmospheric, and Earth Sciences<br>
+EOSC 410 Geoscientific Data Analysis and Empirical Modelling<br>
+EOSC 354 Analysis of Time Series and Inverse Theory for Earth Scientists<br>
+EOSC 340 Global Climate Change<br>
+MATH 307 Applied Linear Algebra<br>
+MATH 316 Elementary Differential Equations II<br>
+STAT 302 Introduction to Probability<br>
+EOSC 514 Introduction to Geological Fluid Mechanics<br>
+EOSC 543 Topics in Solid Earth Sciences (Basin Analysis)<br>
+EOSC 353 Seismology<br>
+EOSC 352 Geophysical Continuum Dynamics<br>
+EOSC 222 Geological Time and Stratigraphy<br>
 
 ## Scholarships
+**M.Sc. Degree**: International Tuition Award
 
-## References
+**B.Sc. Degree**: Outstanding International Student Award
+
+
