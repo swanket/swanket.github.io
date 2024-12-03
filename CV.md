@@ -42,18 +42,18 @@ I hope to use the skills I learned in my M.Sc. and B.Sc. to enhance sustainabili
 
 ## Selected Course Work
 
-EOSC 511 Numerical Techniques for Ocean, Atmospheric, and Earth Sciences<br>
-EOSC 410 Geoscientific Data Analysis and Empirical Modelling<br>
-EOSC 354 Analysis of Time Series and Inverse Theory for Earth Scientists<br>
-EOSC 340 Global Climate Change<br>
-MATH 307 Applied Linear Algebra<br>
-MATH 316 Elementary Differential Equations II<br>
-STAT 302 Introduction to Probability<br>
-EOSC 514 Introduction to Geological Fluid Mechanics<br>
-EOSC 543 Topics in Solid Earth Sciences (Basin Analysis)<br>
-EOSC 353 Seismology<br>
-EOSC 352 Geophysical Continuum Dynamics<br>
-EOSC 222 Geological Time and Stratigraphy<br>
+**EOSC 511**: Numerical Techniques for Ocean, Atmospheric, and Earth Sciences<br>
+**EOSC 410**: Geoscientific Data Analysis and Empirical Modelling<br>
+**EOSC 354**: Analysis of Time Series and Inverse Theory for Earth Scientists<br>
+**EOSC 340**: Global Climate Change<br>
+**MATH 307**: Applied Linear Algebra<br>
+**MATH 316**: Elementary Differential Equations II<br>
+**STAT 302**: Introduction to Probability<br>
+**EOSC 514**: Introduction to Geological Fluid Mechanics<br>
+**EOSC 543**: Topics in Solid Earth Sciences (Basin Analysis)<br>
+**EOSC 353**: Seismology<br>
+**EOSC 352**: Geophysical Continuum Dynamics<br>
+**EOSC 222**: Geological Time and Stratigraphy<br>
 
 ## Scholarships
 **M.Sc. Degree**: International Tuition Award
