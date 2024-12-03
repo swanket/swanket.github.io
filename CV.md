@@ -6,11 +6,15 @@ subtitle:
 
 Below is my CV. If you have any questions please feel free to reach out to me at my email address.
 
+## Professional Interests
+I hope to use the skills I learned in my M.Sc. and B.Sc. to enhance sustainability and progress across any industry that I work in. I am interested in research focused on the physical and thermal interactions of ice sheets and glaciers on volcanic eruptions, physical oceanography and fluid dynamics, ground and surface water hydrology, and really anything Earth Science with a focus on sustainability and climate change. I am experienced and interested in using computer science to study physical processes that might be difficult to capture in field studies. I do not have fieldwork experience, however I would love to engage in fieldwork in the future because without solid data acquisition computer studies are impossible.
+
 ## Education
 **September 2021 - May 2024**: M.Sc. Geophysics, The University of British Columbia, Vancouver, BC, Canada<br>
 **Supervisors**: Dr. A. Mark Jellinek, Dr. Catherine L. Johnson
 
 **September 2015 - December 2021**: B.Sc. Geophysics, The University of British Columbia
+
 ## Work Experience
 **January 2021 - May 2024**: Research Assistant, The University of British Columbia, Vancouver, BC, Canada<br>
 * Set up, perform and analyze analog geophysical experiments of sediment plume dynamics.
@@ -28,8 +32,6 @@ subcontractor to better understand the groundwater availability in the state of 
 ## Publications
 Gilchrist, J.T., Jellinek, A.M., Hooft, E.E.E., Wanket, S.M. Submarine terraced deposits linked to periodic collapse of caldera-forming eruption columns. Nat. Geosci.16, 446–453 (2023). [https://doi.org/10.1038/s41561-023-01160-z](https://doi.org/10.1038/s41561-023-01160-z)
 
-## Professional Interests
-I hope to use the skills I learned in my M.Sc. and B.Sc. to enhance sustainability and progress across any industry that I work in. I am interested in research focused on the physical and thermal interactions of ice sheets and glaciers on volcanic eruptions, physical oceanography and fluid dynamics, ground and surface water hydrology, and really anything Earth Science with a focus on sustainability and climate change. I am experienced and interested in using computer science to study physical processes that might be difficult to capture in field studies. I do not have fieldwork experience, however I would love to engage in fieldwork in the future because without solid data acquisition computer studies are impossible.
 
 ## Skills and Activities
 **Programming Languages**: Python, MATLAB, Julia, SQL, R 
